@@ -1,0 +1,1 @@
+const o="/rb_cobot_docs/manual/common/product_introduction/4-1.png",t="/rb_cobot_docs/manual/common/product_introduction/4-2.png",c="/rb_cobot_docs/manual/common/product_introduction/4-3.png";export{o as _,t as a,c as b};
