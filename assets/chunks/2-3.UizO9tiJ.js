@@ -1,0 +1,1 @@
+const o="/rb_cobot_docs/technical_docs/common/device_robotous_ft/1-1.png",c="/rb_cobot_docs/technical_docs/common/device_robotous_ft/2-1.png",_="/rb_cobot_docs/technical_docs/common/device_robotous_ft/2-2.png",t="/rb_cobot_docs/technical_docs/common/device_robotous_ft/2-3.png";export{o as _,c as a,_ as b,t as c};
