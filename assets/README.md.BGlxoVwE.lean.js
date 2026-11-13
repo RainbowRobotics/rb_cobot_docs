@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as t,a4 as i}from"./chunks/framework.BI9De5Cr.js";const b=JSON.parse('{"title":"cobot-docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function r(l,e,n,d,h,c){return a(),t("div",null,[...e[0]||(e[0]=[i("",20)])])}const u=o(s,[["render",r]]);export{b as __pageData,u as default};
