@@ -1,0 +1,1 @@
+const o="/rb_cobot_docs/manual/common/appendix/b/1.png",n="/rb_cobot_docs/manual/common/appendix/b/2.png",a="/rb_cobot_docs/manual/common/appendix/b/3.png",c="/rb_cobot_docs/manual/common/appendix/b/4.png";export{o as _,n as a,a as b,c};
